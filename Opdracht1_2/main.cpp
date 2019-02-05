@@ -1,3 +1,4 @@
+// Opdracht 1.2 - Jelle van den Broek
 // A:
 // x = 8
 // c = B
