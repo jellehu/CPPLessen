@@ -1,10 +1,3 @@
-#include <iostream>
-using namespace std;
+// Opdracht 1.4 - Jelle van den Broek
 
-int main()
-{
-    char letter = 'a';
-    for(int i = 0; i < 36; i++) {
-	cout << char(letter + i) << ", ";
-    }
-}
+// Deze functie begint bij karakter a en telt steeds 1 bij de ascii waarde erbij totdat er 26 karakters, dus het alfabet, zijn geprint.
