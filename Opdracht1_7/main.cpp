@@ -8,7 +8,7 @@ int main()
 	cout << "Hoe groot moet het vierkant zijn? ";
 	cin >> aantal;
 	for(int i = 0; i < aantal; i++){
-		for(int i = 0; i < aantal; i++){
+		for(int j = 0; j < aantal; j++){
 			cout << "*";
 		}
 		cout << "\n";
